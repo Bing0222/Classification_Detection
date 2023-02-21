@@ -7,4 +7,3 @@
 - show train and test loss curve
 
 
-*Some parameters file(over 25Mb) do not upload in Git*
