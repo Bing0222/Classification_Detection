@@ -11,16 +11,16 @@ Generally, classification and detection have some common steps to assemble them.
 
 |Name|Class|Description|
 | --- | --- | --- |
-| 450Brids | classification ||
-| Brids_predficte | classification ||
-| CNN_decode|||
-| Cat_Dog|||
-| Cifar10|||
-| Detials_Detection|||
-| FASTER-RCNN|||
-| GAN-different-GAN|||
-| MobileNetV3_project|||
-| SSD|||
-| SVHN|||
-| Steel_detection|||
-| vit|||
+| 450Brids | Classification ||
+| Brids_predficte | Classification ||
+| CNN_decode | Classification ||
+| Cat_Dog | Classification ||
+| Cifar10| Classification ||
+| Detials_Detection| Detection ||
+| FASTER-RCNN| Detection ||
+| GAN-different-GAN| Generation ||
+| MobileNetV3_project| Classification ||
+| SSD| Detection ||
+| SVHN| Classification ||
+| Steel_detection| Detection ||
+| vit| Classification ||
