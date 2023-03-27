@@ -1,6 +1,6 @@
 
-1. Save WFLW data in this file  
-2. 
+Save WFLW data in this file  
+
 ~~~shell
 python SetPreparation.py
 ~~~
