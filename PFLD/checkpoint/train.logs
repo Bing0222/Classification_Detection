@@ -1,0 +1,36 @@
+[2023-03-26 19:19:58,631] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] workers: 0
+[2023-03-26 19:19:58,632] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] devices_id: 0
+[2023-03-26 19:19:58,632] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] test_initial: False
+[2023-03-26 19:19:58,632] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] base_lr: 0.0001
+[2023-03-26 19:19:58,632] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] weight_decay: 1e-06
+[2023-03-26 19:19:58,633] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] lr_patience: 40
+[2023-03-26 19:19:58,633] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] start_epoch: 1
+[2023-03-26 19:19:58,633] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] end_epoch: 500
+[2023-03-26 19:19:58,633] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] snapshot: ./checkpoint/snapshot/
+[2023-03-26 19:19:58,633] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] log_file: ./checkpoint/train.logs
+[2023-03-26 19:19:58,634] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] tensorboard: ./checkpoint/tensorboard
+[2023-03-26 19:19:58,634] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] resume: 
+[2023-03-26 19:19:58,634] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] dataroot: ./data/train_data/list.txt
+[2023-03-26 19:19:58,634] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] val_dataroot: ./data/test_data/list.txt
+[2023-03-26 19:19:58,635] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] train_batchsize: 16
+[2023-03-26 19:19:58,635] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:31] [INFO] val_batchsize: 16
+[2023-03-26 19:24:49,682] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_1.pth.tar
+[2023-03-26 19:29:33,780] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_2.pth.tar
+[2023-03-26 19:33:58,720] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_3.pth.tar
+[2023-03-26 19:38:13,545] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_4.pth.tar
+[2023-03-26 19:42:43,077] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_5.pth.tar
+[2023-03-26 19:47:35,346] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_6.pth.tar
+[2023-03-26 19:52:12,609] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_7.pth.tar
+[2023-03-26 19:56:27,456] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_8.pth.tar
+[2023-03-26 20:00:40,130] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_9.pth.tar
+[2023-03-26 20:04:50,802] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_10.pth.tar
+[2023-03-26 20:09:07,364] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_11.pth.tar
+[2023-03-26 20:13:21,217] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_12.pth.tar
+[2023-03-26 20:17:37,943] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_13.pth.tar
+[2023-03-26 20:21:50,818] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_14.pth.tar
+[2023-03-26 20:26:02,132] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_15.pth.tar
+[2023-03-26 20:30:15,006] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_16.pth.tar
+[2023-03-26 20:34:39,460] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_17.pth.tar
+[2023-03-26 20:39:09,144] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_18.pth.tar
+[2023-03-26 20:43:17,267] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_19.pth.tar
+[2023-03-26 20:47:31,328] [p28856] [C:\Users\WenBi\Desktop\Project\PFLD-pytorch\train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_20.pth.tar
