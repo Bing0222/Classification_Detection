@@ -4,7 +4,7 @@
 
 ### 2. Run shell
 ~~~shell
-cd data
-python SetPreparation.py
+$ cd data
+$ python SetPreparation.py
 ~~~
 
