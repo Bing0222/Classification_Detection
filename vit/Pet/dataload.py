@@ -117,54 +117,7 @@ test_dataloader = DataLoader(
     drop_last=False  
 )
 
-net = torchvision.models.vit_b_32(pretrained=True, num_classes=37,
-                                  depth=4,dropout=0.3)
-
-print('Total number of parameters:', sum(param.numel() for param in net.parameters()))
-
-print('Number of trainable parameters:', sum(param.numel() for param in net.parameters() if param.requires_grad))
-
-if torch.cuda.is_available():
-  print('true')
-  net = net.cuda()
 
 
-optimizer = torch.optim.Adam(net.parameters(), lr=0.01)
 
-dataset_tuple = ('British_Shorthair',
- 'german_shorthaired',
- 'Abyssinian',
- 'yorkshire_terrier',
- 'english_setter',
- 'chihuahua',
- 'scottish_terrier',
- 'miniature_pinscher',
- 'Russian_Blue',
- 'english_cocker_spaniel',
- 'american_bulldog',
- 'pug',
- 'havanese',
- 'leonberger',
- 'great_pyrenees',
- 'american_pit_bull_terrier',
- 'staffordshire_bull_terrier',
- 'Sphynx',
- 'Egyptian_Mau',
- 'Maine_Coon',
- 'pomeranian',
- 'samoyed',
- 'beagle',
- 'newfoundland',
- 'wheaten_terrier',
- 'Siamese',
- 'Ragdoll',
- 'japanese_chin',
- 'keeshond',
- 'Bombay',
- 'boxer',
- 'Persian',
- 'shiba_inu',
- 'saint_bernard',
- 'basset_hound',
- 'Birman',
- 'Bengal')
+
