@@ -1,0 +1,1 @@
+{"Acc_train": 63.735, "_timestamp": 1682184817.6866012, "_runtime": 768.0190041065216, "_step": 3139, "Loss_train:": 1.0278814092230872, "validation Accuracy": 64.31, "Acc_test": 66.07, "_wandb": {"runtime": 258}}

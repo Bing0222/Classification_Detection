@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-04-22T17:20:50.427114",
+    "startedAt": "2023-04-22T17:20:49.656038",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/Bing0222/Parkingdetetion.git",
+        "commit": "7267abf96a8f46061b006eb36aac9067aa775062"
+    },
+    "email": "huang47901624@gmail.com",
+    "root": "C:/Users/WenBi/Desktop",
+    "host": "Bing",
+    "username": "WenBi",
+    "executable": "c:\\Users\\WenBi\\anaconda3\\envs\\vs\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3600.0,
+        "min": 0.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "total": 464.88782501220703,
+        "used": 276.2106170654297
+    },
+    "gpu": "NVIDIA GeForce RTX 2060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2060",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.910099029541016
+    }
+}
